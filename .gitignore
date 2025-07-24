@@ -1,0 +1,5 @@
+# .gitignore for Salesforce DX projects
+.sfdx
+node_modules
+coverage
+*.log
